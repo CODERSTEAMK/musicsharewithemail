@@ -1,0 +1,205 @@
+.bady{
+    width:100%;
+    display:grid;
+        grid-auto-flow:row;
+         background-color:darkslateblue;
+    overflow:hidden;
+ }
+
+ .sady{
+    width: 800px;
+    min-height: 500px;
+    display:grid;
+grid-auto-flow: row;
+
+    overflow:hidden;
+    align-items: center;
+   justify-content: center;
+    padding-left: 400px;
+    padding-right: 400px;
+    font-size: 30px;
+    
+ }
+ .sady .fom{
+  
+    background-color:darkslateblue;
+ }
+.bady .home{
+    width:100%;
+    height:90vh;
+    height:40px;
+    background-color:azure;
+    display:flex;
+    justify-content:left;
+    align-items:left;
+  
+    background-position:center;
+    background-repeat:no-repeat;
+    background-size:cover;
+    font-family:"Gill Sans";
+    
+  
+    padding-top:100px;
+    }
+
+    .home h1{
+        font-size:20px;
+        margin-left:50px;
+        color:dimgrey;
+    
+        
+    }
+    
+    .headContainer{
+        width:auto;
+        margin-left:50px;
+       
+        }
+
+       .bady .wrapper{
+     
+            width:100%;
+            height:10vh;
+            display:grid;
+            grid-auto-flow:row;
+          
+            }
+
+
+            .bady .wapperone{
+        
+                    width:100%;
+                    height:10vh;
+                    display:grid;
+                    grid-auto-flow:row;
+                  
+                    }
+            
+            .dady{
+                width:100%;
+                height:1000px;
+                overflow:hidden;
+                background-color:darkslateblue;
+             }
+
+
+     .dady .left{
+width:50%;
+height:1000px;
+background:url('bg.jpg');
+     }
+     .dady .right{
+        width:70%;
+        height:1000px;
+       
+      
+     }
+
+
+     
+     .boxer{
+        width:100%
+     }
+
+     .spice{
+        color:blanchedalmond;
+        font-size:large;
+    
+     }
+
+     .spice1{
+        color:blueviolet;
+        font-size:larger;
+     }
+     .spice3{
+      color:aqua;
+      font-size:x-large;
+     }
+
+     .dash{
+        direction: grid;
+        align-items:center;
+        
+     }
+     input{
+        width:200px;
+        height:40px;
+        background-color:crimson;
+        font-size: 20px;
+        color:bisque;
+        border-color: aqua;
+     }
+     select{
+        width:200px;
+        height:40px;
+        background-color:crimson;
+        font-size: 20px;
+        color:bisque;
+        border-color: aqua;
+     }
+
+     .left{
+        width:200px;
+        height:40px;
+        background-color:darkorange;
+        font-size: 20px;
+        border-color: aqua;
+     }
+     .writter{
+      font-family:'Merienda' ;
+      color:chartreuse;
+     }
+
+     .prin{
+      font-family:'Merienda' ;
+      
+    
+      font-size: 20px;
+
+
+     }
+
+     .cp{
+      justify-content: center;
+      font-size: 20px;
+     }
+
+     .sheeper{
+
+        width:100%;
+height:30vh;
+background:url('Sheepmusic.gif');
+background-position:center;
+
+     }
+
+     .writter{
+        font-family:'Merienda' ;
+        color:beige;
+        font-size:20px;
+        align-items: center;
+        justify-content: center;
+  
+       }
+
+       .phaseg{
+        width:100%;
+        height:15vh;
+        background-color:black;
+        display:grid;
+    grid-auto-flow: column;
+    word-spacing: 2px;
+    
+    gap: 10px;
+    justify-content:left;
+    align-items:center;
+        
+        }
+
+
+        .mynum{
+            background-color:black;
+            font-size: 30px;
+            border-radius: 20px 20px 20px 20px;
+          }
+          
